@@ -1,0 +1,5 @@
+{
+    "secret": "server loading!",
+    "audience": "jwt-auth-nodejs",
+    "issuer": ""
+}
